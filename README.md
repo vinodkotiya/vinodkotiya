@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vinodkotiya.
-- 👀 I’m interested in Digitalisation.
-- 🌱 I’m currently doing Masters of Engineering Leadership - Dependable Software Systems at The University of British Columbia.
-- 💞️ I’m learning what's new in Technology.
+- 👀 I help businesses with AI transformation and Digitalisation.
+- 🌱 I’ve done Masters of Engineering Leadership - Dependable Software Systems from The University of British Columbia.
+- 💞️ I’m consulting what's new in Technology through https://www.ekasmin.com
 - 📫 Connect with me on LinkedIn https://www.linkedin.com/in/vinodkotiya/
 
 <!---
